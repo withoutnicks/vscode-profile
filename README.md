@@ -1,30 +1,32 @@
-# Perfil de VSCode
+# Main profile of my VSCode
 
-Comparto mi configuracion de mi vscode, de paso que me sirve como respaldo
+I share my config of my vscode
 
-## Instalación
+## Install
 
-1. Clona el repositorio.
-
-    ```
-    git clone https://github.com/tu_usuario/tu-repo.git
-    ```
-
-    > Lo importante aqui es el archivo con estension ".code-profile"
+1. Clone repository.
    
-3. Abre Visual Studio Code.
+   ```shell
+   git clone https://github.com/tu_usuario/tu-repo.git
+   ```
+   
+   > The important thing here is the file with the extension "**.code-profile"**
 
-4. Ve a **Manage (⚙)**.
+2. Open Visual Studio Code.
 
-5. Selecciona **Profiles**.
+3. Go to **Manage (⚙)**.
 
-6. Haz clic en **Import profile** y selecciona el archivo ".code-profile" que está en la carpeta del repositorio clonado.
+4. Select **Profiles**.
 
-7. Confirma la importación de la configuración.
+5. Click in  **Import profile** and select archive "**.code-profile**"
 
-8. Reinicia Visual Studio Code para aplicar las configuraciones.
+6. Confirm the import
+
+7. Reset Visual Studio Code ✅
 
 #### 
+
 > [!NOTE]
-> ¡Listo! Ahora deberías tener todas las configuraciones y extensiones aplicadas.
+> Ready! You should now have all the settings and extensions applied.
+
 
